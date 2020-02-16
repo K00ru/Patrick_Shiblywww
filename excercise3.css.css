@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+}
+h1{
+    background-color: red;
+    border-bottom: 5px solid black;
+    font-size: 16px;
+}
+a {
+    color: gold;
+    text-decoration: underline;
+}
+a:hover{
+    color: black;
+}
+h2{
+    font-size: 14px;
+}
+figcaption
+{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
