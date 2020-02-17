@@ -1,0 +1,40 @@
+html {
+	  background-color: #28a745;
+	
+}
+body {
+  background-color: black;
+}
+
+a{
+	color: black;
+	font-weight:italic
+}
+
+h1 {
+	color: orange;
+	font-weight:bold;
+}
+
+p {
+	color: purple;
+	font-weight:bold;
+}
+
+#bold {
+	font-weight:bold;
+}
+
+
+.container-fluid {
+	 	  background-color: white;
+}
+
+.nav-link{
+	color: orange;
+	font-weight:bold;
+}
+.navbar-brand{
+	color: orange;
+	font-weight:bold;
+}
